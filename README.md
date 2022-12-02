@@ -2,9 +2,9 @@
 This will be my home page
 
 ## ToDo list
- - [ ] 1. Local Repository 
+ - [x] 1. Local Repository 
   - [x] 1.1) Create your first commit with this Readme
-  - [ ] 1.2) Amend the previous commit to check the first and second box.
+  - [x] 1.2) Amend the previous commit to check the first and second box.
 - [ ] 2. Linear History 
   - [ ] 2.1) First Commits: index.html
   - [ ] 2.1.1) Create a bare index.html (just the basic structure with no content)
